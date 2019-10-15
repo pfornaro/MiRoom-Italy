@@ -6,7 +6,7 @@
   <string name="HIPS_Action_Reject_Once">Nega una volta</string>
   <string name="HIPS_Perm_AudioRecorder">Registrazione</string>
   <string name="HIPS_Perm_AudioRecorder_Desc">Registrare audio e chiamate</string>
-  <string name="HIPS_Perm_AutoStart">Esecuzione automatica all'avvio</string>
+  <string name="HIPS_Perm_AutoStart">Esecuzione automatica all\'avvio</string>
   <string name="HIPS_Perm_AutoStart_Desc">Esegui automaticamente all'avvio</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity">Connettività Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Attivare e disattivare il Bluetooth</string>
@@ -21,7 +21,7 @@
   <string name="HIPS_Perm_Contact">Modifica contatti</string>
   <string name="HIPS_Perm_Contact_Desc">Modificare e cancellare contatti</string>
   <string name="HIPS_Perm_External_Storage">Accesso e modifica file nella memoria interna</string>
-  <string name="HIPS_Perm_External_Storage_Desc">Aggiungere ed eliminare file nella memoria interna</string>
+  <string name="HIPS_Perm_External_Storage_Desc">"Aggiungere ed eliminare file nella memoria interna"</string>
   <string name="HIPS_Perm_Location">Posizione</string>
   <string name="HIPS_Perm_Location_Desc">Localizzare il dispositivo tramite la rete o il GPS</string>
   <string name="HIPS_Perm_PhoneID">ID Telefono</string>
@@ -81,7 +81,7 @@
   <string name="HIPS_SecurityPrompt_Reject">Nega (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Once">Nega una volta (%d)</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s sta tentando di accedere a %2$s</string>
-  <string name="Su_Package_Forbidden2">non hai accesso root.</string>
+  <string name="Su_Package_Forbidden2">"non hai accesso root."</string>
   <string name="app_name">Gestione Permessi</string>
   <string name="background_location_access_reminder_notification_content">Quest'app può sempre accedere alla tua posizione. Tocca per cambiare.</string>
   <string name="background_location_access_reminder_notification_title">%s sta usando la tua posizione</string>
@@ -92,12 +92,12 @@
   <string name="grant_dialog_button_allow_background">Consenti sempre</string>
   <string name="grant_dialog_button_allow_foreground">Consenti solo durante l'utilizzo dell'app</string>
   <string name="grant_dialog_button_deny">Nega</string>
-  <string name="grant_dialog_button_deny_and_dont_ask_again">Nega e non chiedere più</string>
+  <string name="grant_dialog_button_deny_and_dont_ask_again">"Nega e non chiedere più"</string>
   <string name="grant_dialog_button_deny_background">Mantieni l'accesso durante l'uso</string>
-  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Mantieni e non chiedere più</string>
+  <string name="grant_dialog_button_deny_background_and_dont_ask_again">"Mantieni e non chiedere più"</string>
   <string name="location_settings">Impostazioni posizione</string>
   <string name="location_warning">%1$s è un provider di servizi di localizzazione per questo dispositivo. L'accesso alla posizione può essere modificato nelle impostazioni di localizzazione.</string>
-  <string name="never_ask_again">Non chiedere più</string>
+  <string name="never_ask_again">"Non chiedere più"</string>
   <string name="ok">OK</string>
   <string name="permdesc_camera">Scatta foto e registra video</string>
   <string name="permdesc_in_calls">Monitora le chiamate in arrivo</string>
@@ -128,7 +128,7 @@
   <string name="permission_reminders">Promemoria di autorizzazione</string>
   <string name="permission_warning_template">Consentire a %1$s di %2$s?</string>
   <string name="permission_warning_template_ask">Concedere a %1$s i seguenti permessi?</string>
-  <string name="permisson_reject_notice_toast_text2">non ha il permesso di %1$s."</string>
+  <string name="permisson_reject_notice_toast_text2">"non ha il permesso di %1$s."</string>
   <string name="screen_overlay_button">Apri impostazioni</string>
   <string name="screen_overlay_message">Per modificare queste impostazioni di autorizzazione, devi prima disattivare la sovrapposizione dello schermo in Impostazioni &gt; Applicazioni.</string>
   <string name="screen_overlay_title">Sovrapposizione schermo rilevato</string>
