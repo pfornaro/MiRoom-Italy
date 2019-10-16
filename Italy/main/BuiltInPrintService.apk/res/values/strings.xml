@@ -47,7 +47,7 @@
   <string name="security">Sicurezza</string>
   <string name="title_activity_add_printer">Aggiungi stampante</string>
   <string name="unreadable_input">Impossibile leggere il documento</string>
-  <string name="waiting_to_send">Aspettando per l'invio</string>
+  <string name="waiting_to_send">Aspettando per l\'invio</string>
   <string name="wifi_direct">Wi-Fi direct</string>
   <string name="wifi_direct_permission_rationale">Il servizio di stampa predefinito necessita del permesso di localizzazione per trovare i dispositivi nelle vicinanze.</string>
   <string name="wifi_direct_printers">Stampanti Wi-Fi direct</string>

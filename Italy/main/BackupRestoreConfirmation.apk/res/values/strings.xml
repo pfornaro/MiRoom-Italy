@@ -4,11 +4,11 @@
   <string name="allow_restore_button_label">Ripristina un backup</string>
   <string name="backup_confirm_text">"É stato richiesto un backup completo dei dati in un computer connesso. Confermare?
 
-Se non hai richiesto l'operazione, non confermare."</string>
+Se non hai richiesto l\'operazione, non confermare."</string>
   <string name="backup_confirm_title">Backup completo</string>
-  <string name="backup_enc_password_optional">Se si desidera criptare l'intero backup, inserire la password desiderata:</string>
-  <string name="backup_enc_password_required">Dato che il tuo dispositivo é criptato, è necessario criptare anche il backup. Inserire la password desiderata:</string>
-  <string name="backup_enc_password_text">Inserire una password per criptare l'intero backup. Se lasciato vuoto, verrà usata la tua password di backup attuale:</string>
+  <string name="backup_enc_password_optional">Se si desidera criptare l\'intero backup, inserire la password desiderata:</string>
+  <string name="backup_enc_password_required">Dato che il tuo dispositivo è criptato, è necessario criptare anche il backup. Inserire la password desiderata:</string>
+  <string name="backup_enc_password_text">Inserire una password per criptare l\'intero backup. Se lasciato vuoto, verrà usata la tua password di backup attuale:</string>
   <string name="current_password_text">Inserire la tua password di backup attuale:</string>
   <string name="deny_backup_button_label">Non creare il backup</string>
   <string name="deny_restore_button_label">Non ripristinare il backup</string>
