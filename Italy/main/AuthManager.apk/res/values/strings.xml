@@ -86,11 +86,11 @@
   <string name="background_location_access_reminder_notification_content">"Quest'app può sempre accedere alla tua posizione. Tocca per cambiare."</string>
   <string name="background_location_access_reminder_notification_title">%s sta usando la tua posizione</string>
   <string name="current_permission_template">%1$s di %2$s</string>
-  <string name="default_permission_description">Eseguire un'operazione sconosciuta</string>
+  <string name="default_permission_description">"Eseguire un'operazione sconosciuta"</string>
   <string name="grant_dialog_button_allow">Consenti</string>
   <string name="grant_dialog_button_allow_always">Consenti sempre</string>
   <string name="grant_dialog_button_allow_background">Consenti sempre</string>
-  <string name="grant_dialog_button_allow_foreground">Consenti solo durante l'utilizzo dell'app</string>
+  <string name="grant_dialog_button_allow_foreground">"Consenti solo durante l'utilizzo dell'app"</string>
   <string name="grant_dialog_button_deny">Nega</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Nega e non chiedere più</string>
   <string name="grant_dialog_button_deny_background">"Mantieni l'accesso durante l'uso"</string>
