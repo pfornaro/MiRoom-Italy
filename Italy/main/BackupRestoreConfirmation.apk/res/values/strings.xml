@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="allow_backup_button_label">Crea un backup</string>
+  <string name="allow_restore_button_label">Ripristina un backup</string>
+  <string name="backup_confirm_text">"É stato richiesto un backup completo dei dati in un computer connesso. Confermare?
+
+Se non hai richiesto l'operazione, non confermare."</string>
+  <string name="backup_confirm_title">Backup completo</string>
+  <string name="backup_enc_password_optional">Se si desidera criptare l'intero backup, inserire la password desiderata:</string>
+  <string name="backup_enc_password_required">Dato che il tuo dispositivo é criptato, è necessario criptare anche il backup. Inserire la password desiderata:</string>
+  <string name="backup_enc_password_text">Inserire una password per criptare l'intero backup. Se lasciato vuoto, verrà usata la tua password di backup attuale:</string>
+  <string name="current_password_text">Inserire la tua password di backup attuale:</string>
+  <string name="deny_backup_button_label">Non creare il backup</string>
+  <string name="deny_restore_button_label">Non ripristinare il backup</string>
+  <string name="device_encryption_backup_text">Inserire la password attuale del dispositivo. Questa verrà usata per criptare anche il backup.</string>
+  <string name="device_encryption_restore_text">Inserire la password del dispositivo.</string>
+  <string name="restore_confirm_text">"É stato richiesto un ripristino completo dei dati da un computer connesso. Confermare?
+
+Se non hai richiesto l'operazione, non confermare. Questo andrà a sostituire tutti i dati attualmente nel dispositivo!"</string>
+  <string name="restore_confirm_title">Ripristino completo</string>
+  <string name="restore_enc_password_text">Se il ripristino è protetto da password, inserire la password:</string>
+  <string name="toast_backup_ended">Backup terminato</string>
+  <string name="toast_backup_started">Backup iniziato...</string>
+  <string name="toast_restore_ended">Ripristino terminato</string>
+  <string name="toast_restore_started">Ripristino iniziato...</string>
+  <string name="toast_timeout">Operazione scaduta</string>
+</resources>
