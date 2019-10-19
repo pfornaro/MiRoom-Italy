@@ -8,7 +8,7 @@
   <string name="cert_not_saved">Il certificato non è installato.</string>
   <string name="cert_read_error">"Impossibile installare: non è possibile leggere il certificato."</string>
   <string name="cert_too_large_error">"Impossibile installare il certificato: il certificato è troppo grande."</string>
-  <string name="certificate_capabilities_warning">Nota: L'emittente del certificato potrebbe ispezionare tutto il traffico in entrata e in uscita dal dispositivo.</string>
+  <string name="certificate_capabilities_warning">"Nota: L'emittente del certificato potrebbe ispezionare tutto il traffico in entrata e in uscita dal dispositivo."</string>
   <string name="credential_info">Il pacchetto contiene:</string>
   <string name="credential_name">Nome certificato:</string>
   <string name="credential_password">Inserisci la password per estrarre i certificati.</string>
