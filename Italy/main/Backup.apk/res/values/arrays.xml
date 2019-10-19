@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.21</item>
+    </string-array>
+    <string-array name="mi_stat_cancel_survey_key">
+        <item>annulla_esperienza_complessiva</item>
+        <item>annulla_durata_trasferimento</item>
+        <item>annulla_semplicità_del_processo</item>
+        <item>annulla_chiarezza_delle_istruzioni</item>
+        <item>annulla_questa_funzione_è_inutile</item>
+    </string-array>
+    <string-array name="mi_stat_success_survey_key">
+        <item>esperienza_complessiva</item>
+        <item>durata_trasferimento</item>
+        <item>semplicità_del_processo</item>
+        <item>chiarezza_delle_istruzioni</item>
+    </string-array>
+    <string-array name="trans_cancel_survey_title">
+        <item>Esperienza complessiva</item>
+        <item>Durata trasferimento</item>
+        <item>Semplicità del processo</item>
+        <item>Chiarezza delle istruzioni</item>
+        <item>Questa funzione è inutile</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Molto insoddisfatto</item>
+        <item>Abbastanza insoddisfatto</item>
+        <item>Normale</item>
+        <item>Abbastanza soddisfatto</item>
+        <item>Molto soddisfatto</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>Esperienza complessiva</item>
+        <item>Durata del trasferimento</item>
+        <item>Semplicità del processo</item>
+        <item>Chiarezza delle istruzioni</item>
+    </string-array>
+</resources>

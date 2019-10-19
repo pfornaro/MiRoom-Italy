@@ -47,7 +47,7 @@
   <string name="category_brazil_settings_title">Impostazioni per il Brasile</string>
   <string name="category_dev_settings_title">Opzioni sviluppatore</string>
   <string name="category_etws_settings_title">Impostazioni ETWS</string>
-  <string name="category_india_settings_title">Impostazioni per l'India</string>
+  <string name="category_india_settings_title">"Impostazioni per l'India"</string>
   <string name="cb_channel_50_name">Canale 50</string>
   <string name="cb_channel_dialog_channel_name">Nome canale (0-10 caratteri)</string>
   <string name="cb_channel_dialog_channel_number">Numero canale (0-65534)</string>
