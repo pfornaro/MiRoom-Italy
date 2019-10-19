@@ -79,8 +79,8 @@
         <item quantity="one">Scaricato da %1$d di persone</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> app non sono state utilizzate per lungo tempo, dagli un'occhiata."&lt;/Data></item>
-        <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> app non è stata utilizzata per lungo tempo, dagli un'occhiata."&lt;/Data></item>
+        <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> "app non sono state utilizzate per lungo tempo, dagli un'occhiata."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> "app non è stata utilizzata per lungo tempo, dagli un'occhiata."&lt;/Data></item>
     </plurals>
     <plurals name="second">
         <item quantity="other">%1$d secondi</item>
